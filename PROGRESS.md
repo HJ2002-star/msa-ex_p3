@@ -1,1 +1,2 @@
 - [16:02:02] Q0: 3부(15~16장) 저장소 시작 (출처: boot4)
+- [16:16:54] Q56: 그림 15.3 kubectl config get-contexts
